@@ -15,17 +15,18 @@ If you decided to join us, but you don't know how to start, please see <a href="
 
 <h1>DiatomEnterprises</h1>
 
-We are a Latvia based custom outsource software development company producing software for a wide variety of industries. Our customers around the globe find our software development services to be of outstanding quality at an affordable price.
+We are an international custom software development and information technology consulting company based in Riga, Latvia. We have been producing custom software for a variety of industries since 2004 and have clients all around the globe: North America, Western Europe, Australia.
+Our customers around the globe find our software development services to be of outstanding quality at an affordable price.
 
-Diatom Enterprises was founded by software developers that have been involved in the development of software solutions practically since high school.
+Our company is run and owned by software developers all of whom have been in the industry for nearly quarter of a century and who have wide international and inter industry experience.  Our software development skill set is focused on .NET platform, Java, Ruby on Rails and all major mobile platforms: iOS, Android, Windows and Xamarin. 
 
-Currently our main line of business is outsourcing software development. We started in 2004 as a small group of consultants and over the years have grown to 70. The majority of our staff members have North American work experience, speak fluent English and hold University degrees in Computer Science.
+Currently we are 70 people in size; majority of our staff members have North American work experience, fluently speak several foreign languages, hold University Degree in Computer Science and possess multiple Microsoft certified developers certificates. 
 
-Our team possesses vast and deep expertise in rapid offshore outsource software development of web-based, distributed and standalone applications designed to meet your organization's specific requirements and business needs. Offshore facilities of our software developer base enable us to provide 24 hour outsource production and support, as well as competitive pricing.
+ We learned that success comes to those who do what they do with genuine interest and devotion. We have been able to assemble a team of very special talented people who can cut technological corners with their ingenuity, who pay extreme attention to detail and who take utmost pride in being able to call themselves "True Professionals" in the field of software development.
 
-We learned that success comes to those who do what they do with genuine interest and devotion. We have been able to assemble a team of very special talented people who can cut technological corners with their ingenuity, who pay extreme attention to detail and who take utmost pride in being able to call themselves "True Professionals" in the field of software development.
-
-When we are asked what makes our outsourcing company different from others we think that just like human beings - companies have individualities. Each software development company excels in one area and struggles in another. Successful business relationships especially in services which are related to production of intellectual property are often a matter of compatibility between the companies. Some relationships work, some do not. This is true if the offshore company can offer professionalism, competence and above all integrity.
+To learn what our customers are saying about us, please, go to our “Customers’ Feesback” page. 
+If you would like to learn more about our experience, pelase, go to pages “Projects” and “Technologies”.
+Also, feel free to visit our blog that features Software Development, Technical and Managerial problem solving, as well as fresh articles from our Research and Development Department on the topical issues in IT industry.
 
 For detailed infromation please visit our <a href="https://www.diatomenterprises.com">home page</a> or <a href="https://www.diatommobile.com">mobile department page.</a>
 
