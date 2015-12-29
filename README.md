@@ -10,7 +10,7 @@ If you are a developer and you are wondering why to join us, please read <a href
 If you decided to join us, but you don't know how to start, please see <a href="https://github.com/DiatomEnterprisesOSP/PWOP/wiki/How-To-Start">this page.</a>
 <h3>Community:</h3>
 <div><a href="https://groups.google.com/forum/#!forum/diatomdnr">Google group</a></div>
-<div><a href="https://plus.google.com/u/3/109933616734471768322/posts">Google+</a></div>
+<div><a href="https://plus.google.com/u/5/107056782275423169828?hl=en">Google+</a></div>
 <div><a href="https://dnr-team.slack.com">Slack</a></div>
 
 <h1>DiatomEnterprises</h1>
