@@ -11,7 +11,7 @@ If you decided to join us, but you don't know how to start, please see <a href="
 <h3>Community:</h3>
 <div><a href="https://groups.google.com/forum/#!forum/diatomdnr">Google group</a></div>
 <div><a href="https://plus.google.com/u/3/109933616734471768322/posts">Google+</a></div>
-<div><a href="https://pwopteam.slack.com">Slack</a></div>
+<div><a href="https://dnr-team.slack.com">Slack</a></div>
 
 <h1>DiatomEnterprises</h1>
 
