@@ -1,6 +1,6 @@
-<h1>PWOP</h1>
+<h1>DNR or .NET Rock's</h1>
 <h3>Description</h3>
-<b>PWOP</b> is an open source project developed by 
+<b>DNR</b> is an open source project developed by 
 <a href="http://www.diatomenterprises.com">DiatomEnterprises</a> as cross-platform mobile application (available also for tablets) made specially to listen podcast's.
 
 For detailed infromation please, visit our <a href="https://github.com/DiatomEnterprisesOSP/PWOP/wiki/WIKI">WIKI.</a>
